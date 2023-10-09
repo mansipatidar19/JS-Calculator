@@ -1,0 +1,15 @@
+/* Custom CSS for basic theme */
+#theme-btn:hover {
+    color: white;
+    font-weight: 500;
+  }
+
+  .submit-btn {
+    color: white;
+    font-weight: 400;
+  }
+
+  .submit-btn:hover {
+    color: white;
+    font-weight: 600;
+  }
